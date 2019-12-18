@@ -1,21 +1,22 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+title: Warm Leaves - Enjoy The Ritual of Tea
+image: /img/alisher-sharip-mumpl9-d7uc-unsplash.jpg
+heading: Great tea with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Why Kaldi
+  title: Why Warm Leaves
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Tea and infusions are classic warm beverages used through history for
+    nourishment, health, healing and pure enjoyment. After water is the most
+    consumed drink in the world. This site aims to be your introductory guide to
+    the world of tea with basic explanations of the different types of tea and
+    infusiones and the accessories that you might want to have in order to enjoy
+    a cup.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Warm Leaves is the ultimate spot for tea lovers who want to learn about the
+  origin of tea and infusions. We love tea too and we are happy to pass all the
+  knowledge that we have.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -46,11 +47,10 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: >-
+    Warm Leaves is the ultimate spot for tea lovers who want to learn about the
+    origin of tea and infusions. We love tea too and we are happy to pass all
+    the knowledge that we have.
 main:
   heading: Great coffee with no compromises
   description: >
@@ -68,3 +68,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
