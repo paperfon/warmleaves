@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Warm Leaves - Enjoy The Ritual of Tea
-image: /img/alisher-sharip-mumpl9-d7uc-unsplash.jpg
+image: /img/vivek-kumar-jkbyacntvue-unsplash-med.jpg
 heading: Great tea with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
